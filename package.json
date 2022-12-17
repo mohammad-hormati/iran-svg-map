@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "iran-map-svg",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/mohammad-hormati/iran-svg-map"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
