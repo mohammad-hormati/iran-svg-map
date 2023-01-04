@@ -1,6 +1,6 @@
 {
   "name": "iran-svg-map",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "iran-map-svg",
   "main": "index.js",
   "publishConfig": {
